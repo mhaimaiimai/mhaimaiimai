@@ -1,7 +1,7 @@
 ### Hi there 👋
 This github is mainly used to hold my works for **‘100 Days of Code: The Complete Python Pro Bootcamp for 2023’**
 
-I worked on it daily for the first 30 days. After I have been more familiar with python, I switch to focus more on python with data analysis. So my progress of this course is now on pause.
+I worked on it daily for the first 30 days. After I have become more familiar with python, I switch to focus more on python fot data analysis. So my progress of this course is now on pause.
 
 ✨current progress: 37/100✨
 |	Status	|	Day	|	Detail	|	Skill(s)	|	Repo	|
